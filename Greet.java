@@ -8,7 +8,7 @@ public class Greet {
 		System.out.println("JAVA MAVEN");
 		System.out.println("Welcome to Maven Based Core Java Project");
 		System.out.println("Greet Test is calling the class Greet");
-		
+		System.out.println("Another one");
 	}
 
 }
