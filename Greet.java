@@ -5,7 +5,7 @@ public class Greet {
 		// TODO Auto-generated method stub
 		String msg="Welcome";
 		System.out.println(msg+" to Java");
-		
+		System.out.println("JAVA MAVEN");
 		System.out.println("Welcome to Maven Based Core Java Project");
 		System.out.println("Greet Test is calling the class Greet");
 		
